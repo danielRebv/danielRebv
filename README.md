@@ -15,7 +15,6 @@
 <p><img align="right" src="https://c.tenor.com/yF2cZxmDRjQAAAAC/glootie-app.gif" alt="Daniel" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
 
 - 📫 How to reach me **zert09@gmail.com**
 
