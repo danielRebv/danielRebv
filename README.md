@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel Rebolledo</h1>
-<h3 align="center"> Software Engineer Student.</h3>
+<h3 align="center"> Software Development Engineer in Test</h3>
 <h4 align="center"> Fullstack Java Developer</h4>
 <h4 align="center"> Fullstack JavaScript Developer</h4>
-<h4 align="center"> QA Automation Engineer</h4>
+
 
 <br>
 
